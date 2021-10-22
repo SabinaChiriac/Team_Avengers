@@ -5,4 +5,9 @@ The user has an option of two applications from where they can choose , "Adopt" 
 The employ process the applications and give the user an answer 
 in regard with the applications , if there is a pet that meets the user wishes or not.
 
-The app will be developt in C# in Visual Studio, the data base in SQL Server .
+The app will be developt in C# in Visual Studio, the data base in SQL Server.
+
+Colaborators:
+  ->Arvatu Andreea
+  ->Balint Paul
+  ->Chiriac Sabina
