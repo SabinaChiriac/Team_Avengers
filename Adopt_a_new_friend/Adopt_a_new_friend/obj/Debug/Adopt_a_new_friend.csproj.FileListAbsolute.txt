@@ -1,0 +1,15 @@
+C:\Users\Sabina\OneDrive\Desktop\Repositories\C#\Adopt_a_new_friend\Adopt_a_new_friend\bin\Debug\Adopt_a_new_friend.exe.config
+C:\Users\Sabina\OneDrive\Desktop\Repositories\C#\Adopt_a_new_friend\Adopt_a_new_friend\bin\Debug\Adopt_a_new_friend.exe
+C:\Users\Sabina\OneDrive\Desktop\Repositories\C#\Adopt_a_new_friend\Adopt_a_new_friend\bin\Debug\Adopt_a_new_friend.pdb
+C:\Users\Sabina\OneDrive\Desktop\Repositories\C#\Adopt_a_new_friend\Adopt_a_new_friend\obj\Debug\Adopt_a_new_friend.csproj.AssemblyReference.cache
+C:\Users\Sabina\OneDrive\Desktop\Repositories\C#\Adopt_a_new_friend\Adopt_a_new_friend\obj\Debug\MainWindow.g.cs
+C:\Users\Sabina\OneDrive\Desktop\Repositories\C#\Adopt_a_new_friend\Adopt_a_new_friend\obj\Debug\App.g.cs
+C:\Users\Sabina\OneDrive\Desktop\Repositories\C#\Adopt_a_new_friend\Adopt_a_new_friend\obj\Debug\Adopt_a_new_friend_MarkupCompile.cache
+C:\Users\Sabina\OneDrive\Desktop\Repositories\C#\Adopt_a_new_friend\Adopt_a_new_friend\obj\Debug\Adopt_a_new_friend_MarkupCompile.lref
+C:\Users\Sabina\OneDrive\Desktop\Repositories\C#\Adopt_a_new_friend\Adopt_a_new_friend\obj\Debug\MainWindow.baml
+C:\Users\Sabina\OneDrive\Desktop\Repositories\C#\Adopt_a_new_friend\Adopt_a_new_friend\obj\Debug\Adopt_a_new_friend.g.resources
+C:\Users\Sabina\OneDrive\Desktop\Repositories\C#\Adopt_a_new_friend\Adopt_a_new_friend\obj\Debug\Adopt_a_new_friend.Properties.Resources.resources
+C:\Users\Sabina\OneDrive\Desktop\Repositories\C#\Adopt_a_new_friend\Adopt_a_new_friend\obj\Debug\Adopt_a_new_friend.csproj.GenerateResource.cache
+C:\Users\Sabina\OneDrive\Desktop\Repositories\C#\Adopt_a_new_friend\Adopt_a_new_friend\obj\Debug\Adopt_a_new_friend.csproj.CoreCompileInputs.cache
+C:\Users\Sabina\OneDrive\Desktop\Repositories\C#\Adopt_a_new_friend\Adopt_a_new_friend\obj\Debug\Adopt_a_new_friend.exe
+C:\Users\Sabina\OneDrive\Desktop\Repositories\C#\Adopt_a_new_friend\Adopt_a_new_friend\obj\Debug\Adopt_a_new_friend.pdb

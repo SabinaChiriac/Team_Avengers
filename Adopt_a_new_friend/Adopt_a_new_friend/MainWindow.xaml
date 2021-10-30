@@ -5,8 +5,13 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Adopt_a_new_friend"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="750" Width="600">
+    <Window.Background>
+        <ImageBrush ImageSource="adopt_a_new_friend.png"/>
+    </Window.Background>
     <Grid>
-        
+        <Button Content="Admin" HorizontalAlignment="Left" Margin="215,433,0,0" VerticalAlignment="Top" Width="140" Height="52" FontSize="20" FontWeight="Bold"/>
+        <Button Content="Client" HorizontalAlignment="Left" Margin="215,522,0,0" VerticalAlignment="Top" Width="140" Height="52" FontWeight="Bold" FontSize="20"/>
+
     </Grid>
 </Window>
