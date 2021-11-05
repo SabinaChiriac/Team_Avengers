@@ -69,11 +69,14 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Models\BussinesLogicLayer\PetBLL.cs" />
+    <Compile Include="Models\DataAccessLayer\PetDAL.cs" />
     <Compile Include="Models\EntityLayer\Address.cs" />
     <Compile Include="Models\EntityLayer\BasePropertyChanged.cs" />
     <Compile Include="Models\EntityLayer\Employee.cs" />
     <Compile Include="Models\EntityLayer\Order.cs" />
     <Compile Include="Models\EntityLayer\Pet.cs" />
+    <Compile Include="Models\EntityLayer\User.cs" />
     <Compile Include="Properties\AssemblyInfo.cs">
       <SubType>Code</SubType>
     </Compile>
@@ -103,8 +106,6 @@
     <Resource Include="adopt_a_new_friend.png" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Models\BussinesLogicLayer\" />
-    <Folder Include="Models\DataAccessLayer\" />
     <Folder Include="View\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
