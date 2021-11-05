@@ -8,6 +8,6 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("views/abandon_form.png")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("models/views/abandon_form.png")]
 
 
