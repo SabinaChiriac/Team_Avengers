@@ -102,5 +102,10 @@
   <ItemGroup>
     <Resource Include="adopt_a_new_friend.png" />
   </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Models\BussinesLogicLayer\" />
+    <Folder Include="Models\DataAccessLayer\" />
+    <Folder Include="View\" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

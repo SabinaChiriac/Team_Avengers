@@ -663,6 +663,14 @@
 								"$ref": "AAAAAAF8ywBSHDYksm0="
 							},
 							"name": "Employee"
+						},
+						{
+							"_type": "UMLClass",
+							"_id": "AAAAAAF87xWm86od64Y=",
+							"_parent": {
+								"$ref": "AAAAAAF8ywBSHDYksm0="
+							},
+							"name": "User"
 						}
 					]
 				},
@@ -739,6 +747,14 @@
 							"target": {
 								"$ref": "AAAAAAF8ywNxLDZ15C4="
 							}
+						},
+						{
+							"_type": "UMLClass",
+							"_id": "AAAAAAF87xUzDaoZo2M=",
+							"_parent": {
+								"$ref": "AAAAAAF8ywN8ljaO2P8="
+							},
+							"name": "UserBLL"
 						}
 					]
 				},
@@ -802,6 +818,14 @@
 							"target": {
 								"$ref": "AAAAAAF8ywBSHDYksm0="
 							}
+						},
+						{
+							"_type": "UMLClass",
+							"_id": "AAAAAAF87xTrRaoVD1U=",
+							"_parent": {
+								"$ref": "AAAAAAF8ywNxLDZ15C4="
+							},
+							"name": "UserDAL"
 						}
 					]
 				}
