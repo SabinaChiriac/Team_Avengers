@@ -8,6 +8,6 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("adopt_a_new_friend.png")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("views/abandon_form.png")]
 
 
