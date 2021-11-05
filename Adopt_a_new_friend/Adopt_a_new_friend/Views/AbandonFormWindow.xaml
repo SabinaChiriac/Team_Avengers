@@ -5,8 +5,24 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Adopt_a_new_friend.Views"
         mc:Ignorable="d"
-        Title="AbandonFormWindow" Height="450" Width="800">
+        Title="AbandonFormWindow" Height="750" Width="600">
+
     <Grid>
-        
+        <Grid.Background>
+            <ImageBrush ImageSource="abandon_form.png"/>
+        </Grid.Background>
+
+        <Label Content="Pet's name:" Margin="10,385,507,304" />
+        <TextBox Name="txtPetName" Margin="90,379,376,304" />
+        <Label Content="Pet's type:" Margin="10,425,507,258" />
+        <TextBox Name="txtPetType" Margin="90,425,376,258" />
+        <Label Content="Pet's bread:" Margin="10,466,507,217" />
+        <TextBox Name="txtPetBread" Margin="90,466,302,217" />
+        <Label Content="Pet's age:" Margin="10,507,507,174" />
+        <TextBox Name="txtPetAge" Margin="90,507,376,174" />
+        <Label Content="Pet's description:" Margin="10,555,479,125" />
+        <TextBox Name="txtPetDescription" Margin="118,555,143,125" />
+
+        <Button Content="SUBMIT" HorizontalAlignment="Left" Margin="443,612,0,0" VerticalAlignment="Top" Width="112" Height="50" FontSize="15" FontWeight="Bold"/>
     </Grid>
 </Window>
