@@ -21,8 +21,8 @@ namespace Adopt_a_new_friend.Models.EntityLayer
                 NotifyPropertyChanged("ID Pet");
             }
         }
-        private String name;
-        public String Name
+        private string name;
+        public string Name
         {
             get
             {
@@ -34,8 +34,8 @@ namespace Adopt_a_new_friend.Models.EntityLayer
                 NotifyPropertyChanged("Name of the pet");
             }
         }
-        private String bread;
-        public String Bread
+        private string bread;
+        public string Bread
         {
             get
             {
@@ -60,8 +60,8 @@ namespace Adopt_a_new_friend.Models.EntityLayer
                 NotifyPropertyChanged("Age of the pet");
             }
         }
-        private String description;
-        public String Description
+        private string description;
+        public string Description
         {
             get
             {
@@ -73,8 +73,8 @@ namespace Adopt_a_new_friend.Models.EntityLayer
                 NotifyPropertyChanged("Pet description");
             }
         }
-        private String type;
-        public String Type
+        private string type;
+        public string Type
         {
             get
             {

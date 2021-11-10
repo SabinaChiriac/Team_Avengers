@@ -63,6 +63,10 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
+    <Compile Include="Convertors\AddressConvertor.cs" />
+    <Compile Include="Convertors\EmployeeConvertor.cs" />
+    <Compile Include="Convertors\OrderConvertor.cs" />
+    <Compile Include="Convertors\UserConvertor.cs" />
     <Compile Include="Models\Views\AbandonFormWindow.xaml.cs" />
     <Compile Include="App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>

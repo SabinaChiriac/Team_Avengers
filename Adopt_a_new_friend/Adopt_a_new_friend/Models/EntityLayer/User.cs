@@ -22,8 +22,8 @@ namespace Adopt_a_new_friend.Models.EntityLayer
             }
 
         }
-        private String type;
-        public String Type
+        private string type;
+        public string Type
         {
             get
             {
@@ -36,8 +36,8 @@ namespace Adopt_a_new_friend.Models.EntityLayer
             }
 
         }
-        private String userName;
-        public String UserName {
+        private string userName;
+        public string UserName {
             get
             {
                 return userName;
@@ -49,8 +49,8 @@ namespace Adopt_a_new_friend.Models.EntityLayer
             }
 
         }
-        private String password;
-        public String Password
+        private string password;
+        public string Password
         {
             get
             {

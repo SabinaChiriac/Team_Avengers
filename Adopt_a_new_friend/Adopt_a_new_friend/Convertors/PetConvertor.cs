@@ -5,9 +5,10 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Data;
 using Adopt_a_new_friend.Models.EntityLayer;
+
 namespace Adopt_a_new_friend.Convertors
 {
-    class PetConvertor IMultiValueConverter
+    class PetConvertor: IMultiValueConverter
     {
         public object Convert(object[] values, Type targetType, object parameter, System.Globalization.CultureInfo culture)
         {
@@ -25,9 +26,10 @@ namespace Adopt_a_new_friend.Convertors
 
     public object[] ConvertBack(object[] value, Type targetType, object parameter, System.Globalization.CultureInfo culture)
     {
-        Pet pet = value as Pet;
-        Object[] result = new object[5] { pet.Name, pet.Bread, pet.Age, pet.Description, pet.Type };
-        return result;
+            Pet pet = value as Pet;
+            Object[] result = new object[5] {pet.Name,pet.Bread,pet.Age,pet.Description,pet.Type };
+            return result;
+
 
     }
 
