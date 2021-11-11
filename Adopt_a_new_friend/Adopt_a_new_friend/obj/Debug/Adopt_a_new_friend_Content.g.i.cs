@@ -9,7 +9,11 @@
 //------------------------------------------------------------------------------
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("models/views/abandon_form.png")]
+=======
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("adopt_form.png")]
+>>>>>>> Stashed changes
 =======
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("adopt_form.png")]
 >>>>>>> Stashed changes

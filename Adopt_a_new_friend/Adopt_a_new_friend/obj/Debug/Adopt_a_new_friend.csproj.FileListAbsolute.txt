@@ -44,10 +44,13 @@ C:\Users\pc\Desktop\Team_Avengers\Adopt_a_new_friend\Adopt_a_new_friend\obj\Debu
 C:\Users\pc\Desktop\Team_Avengers\Adopt_a_new_friend\Adopt_a_new_friend\obj\Debug\Adopt_a_new_friend.exe
 C:\Users\pc\Desktop\Team_Avengers\Adopt_a_new_friend\Adopt_a_new_friend\obj\Debug\Adopt_a_new_friend.pdb
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 C:\Users\pc\Desktop\Team_Avengers\Adopt_a_new_friend\Adopt_a_new_friend\obj\Debug\Models\Views\AbandonFormWindow.g.cs
 C:\Users\pc\Desktop\Team_Avengers\Adopt_a_new_friend\Adopt_a_new_friend\obj\Debug\Models\Views\AbandonFormWindow.baml
 C:\Users\Sabina Chiriac\Desktop\REPOSITORIES\Team_Avengers\Adopt_a_new_friend\Adopt_a_new_friend\obj\Debug\Models\Views\AbandonFormWindow.g.cs
 =======
+=======
+>>>>>>> Stashed changes
 D:\Proiect IS\Team_Avengers\Adopt_a_new_friend\Adopt_a_new_friend\bin\Debug\Adopt_a_new_friend.exe.config
 D:\Proiect IS\Team_Avengers\Adopt_a_new_friend\Adopt_a_new_friend\bin\Debug\Adopt_a_new_friend.exe
 D:\Proiect IS\Team_Avengers\Adopt_a_new_friend\Adopt_a_new_friend\bin\Debug\Adopt_a_new_friend.pdb
@@ -65,4 +68,7 @@ D:\Proiect IS\Team_Avengers\Adopt_a_new_friend\Adopt_a_new_friend\obj\Debug\Adop
 D:\Proiect IS\Team_Avengers\Adopt_a_new_friend\Adopt_a_new_friend\obj\Debug\Adopt_a_new_friend.csproj.CoreCompileInputs.cache
 D:\Proiect IS\Team_Avengers\Adopt_a_new_friend\Adopt_a_new_friend\obj\Debug\Adopt_a_new_friend.exe
 D:\Proiect IS\Team_Avengers\Adopt_a_new_friend\Adopt_a_new_friend\obj\Debug\Adopt_a_new_friend.pdb
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
