@@ -55,19 +55,31 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+<<<<<<< Updated upstream
     <Page Include="Models\Views\AbandonFormWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
+=======
+    <Page Include="Adopt.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+>>>>>>> Stashed changes
     </Page>
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
+<<<<<<< Updated upstream
     <Compile Include="Convertors\AddressConvertor.cs" />
     <Compile Include="Convertors\EmployeeConvertor.cs" />
     <Compile Include="Convertors\OrderConvertor.cs" />
     <Compile Include="Convertors\UserConvertor.cs" />
     <Compile Include="Models\Views\AbandonFormWindow.xaml.cs" />
+=======
+    <Compile Include="Adopt.xaml.cs">
+      <DependentUpon>Adopt.xaml</DependentUpon>
+    </Compile>
+>>>>>>> Stashed changes
     <Compile Include="App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
@@ -122,6 +134,9 @@
   </ItemGroup>
   <ItemGroup>
     <Resource Include="Models\Views\abandon_form.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="adopt_form.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

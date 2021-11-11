@@ -4,17 +4,26 @@
 winexe
 C#
 .cs
-C:\Users\Sabina Chiriac\Desktop\REPOSITORIES\Team_Avengers\Adopt_a_new_friend\Adopt_a_new_friend\obj\Debug\
+D:\Proiect IS\Team_Avengers\Adopt_a_new_friend\Adopt_a_new_friend\obj\Debug\
 Adopt_a_new_friend
 none
 false
 DEBUG;TRACE
+<<<<<<< Updated upstream
 C:\Users\Sabina Chiriac\Desktop\REPOSITORIES\Team_Avengers\Adopt_a_new_friend\Adopt_a_new_friend\App.xaml
 2-2126866471
 
 21-1820419477
 13-1505183044
 Models\Views\AbandonFormWindow.xaml;MainWindow.xaml;
+=======
+D:\Proiect IS\Team_Avengers\Adopt_a_new_friend\Adopt_a_new_friend\App.xaml
+2769540243
 
-False
+15-305105169
+13-1505183044
+Adopt.xaml;MainWindow.xaml;
+>>>>>>> Stashed changes
+
+True
 
