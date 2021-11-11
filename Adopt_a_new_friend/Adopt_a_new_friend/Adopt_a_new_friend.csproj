@@ -55,14 +55,25 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Page Include="Models\Views\AbandonFormWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
+    <Compile Include="Convertors\AddressConvertor.cs" />
+    <Compile Include="Convertors\EmployeeConvertor.cs" />
+    <Compile Include="Convertors\OrderConvertor.cs" />
+    <Compile Include="Convertors\UserConvertor.cs" />
+    <Compile Include="Models\Views\AbandonFormWindow.xaml.cs" />
     <Compile Include="App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Convertors\PetConvertor.cs" />
+    <Compile Include="Exceptions\AaNFExceptions.cs" />
     <Compile Include="MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
@@ -105,8 +116,12 @@
   <ItemGroup>
     <Resource Include="adopt_a_new_friend.png" />
   </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
-    <Folder Include="View\" />
+    <Resource Include="abandon_form.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Models\Views\abandon_form.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
